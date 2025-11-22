@@ -1,7 +1,7 @@
 # ds_rishab_arora
 Data Science assignment exploring the relationship between trader performance and market sentiment using trading logs and the Fear–Greed Index. Includes full Colab notebook, daily aggregation, sentiment analysis, EDA, statistical testing, regression modeling, insights, and final report.
 
-Trader Performance vs Market Sentiment — Data Science Assignment
+Trader Performance vs Market Sentiment
 
 Author: Rishab Arora
 Email: rishab2104@gmail.com
@@ -42,43 +42,43 @@ The objective is to uncover hidden relationships between sentiment phases and tr
 Key Steps in the Analysis
 1. Data Cleaning
 
-Standardized timestamps
+  Standardized timestamps
 
-Filtered valid trading actions
+  Filtered valid trading actions
 
-Computed realized PnL correctly
+  Computed realized PnL correctly
 
-Cleaned sentiment dataset
+  Cleaned sentiment dataset
 
 2. Feature Engineering
 
-Daily-level aggregation
+  Daily-level aggregation
 
-Merged sentiment
+  Merged sentiment
 
-Computed lag features
+  Computed lag features
 
-Built model_input dataset
+  Built model_input dataset
 
 3. Exploratory Data Analysis
 
-PnL over time
+  PnL over time
 
-Cumulative returns
+  Cumulative returns
 
-Trade activity
+  Trade activity
 
-Volume (log-scale)
+  Volume (log-scale)
 
-Sentiment-wise performance
+  Sentiment-wise performance
 
 4. Modeling
 
-Regression-style analysis
+  Regression-style analysis
 
-Sentiment impact estimation
+  Sentiment impact estimation
 
-Volume & lag effects
+  Volume & lag effects
 
 Visual Outputs
 All visualizations (PNL trends, sentiment PNL distributions, volume charts, etc.) are stored in: /outputs/
