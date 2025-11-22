@@ -1,5 +1,10 @@
 # ds_rishab_arora
-Data Science assignment exploring the relationship between trader performance and market sentiment using trading logs and the Fear–Greed Index. Includes full Colab notebook, daily aggregation, sentiment analysis, EDA, statistical testing, regression modeling, insights, and final report.
+This project explores the relationship between trader performance and market sentiment using real trading data and the Fear–Greed Index.
+The core objective is to:
+Understand how market sentiment affects profitability, uncover hidden patterns, and extract insights to support smarter trading strategies.
+
+Deliverables:
+This repository includes full Colab notebook, daily aggregation logic, sentiment analysis, EDA, statistical testing, regression modeling, visualizations & insights, and a polished PDF report summarizing the entire workflow.
 
 Trader Performance vs Market Sentiment
 
